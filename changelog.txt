@@ -1,0 +1,8 @@
+** Changelog for NewMagz WordPress theme **
+** Author: http://www.themewarrior.com **
+
+October 25th, 2015 -- Version 1.0.1
+- Add 2 new homepage layouts
+
+October 25th, 2015 -- Version 1.0.0
+- Theme is released

@@ -1,0 +1,1743 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NewMagz (1.0.0)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-18 10:38+0700\n"
+"PO-Revision-Date: 2015-10-18 10:38+0700\n"
+"Last-Translator: ThemeWarrior <support@themewarrior.com>\n"
+"Language-Team: ThemeWarrior <support@themewarrior.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;_e;esc_html__;esc_html__e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.7.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../js\n"
+
+#: ../author.php:34
+#, php-format
+msgid "All Posts from %s"
+msgstr ""
+
+#: ../comments.php:28
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:28
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:28
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:35
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../comments.php:36
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../comments.php:51
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:55
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:57
+#, php-format
+msgid ""
+"You are logged in as <a href=\"%1$s\">%2$s</a> &#8212; <a href=\"%3$s"
+"\">Logout &raquo;</a>"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Fullname"
+msgstr ""
+
+#: ../comments.php:60
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Website Url"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Message"
+msgstr ""
+
+#: ../footer.php:26
+msgid ""
+"There's no widget assigned. You can start assigning widgets to \"Footer Top "
+"Sidebar\" widget area from the <a href=\""
+msgstr ""
+
+#: ../footer.php:76
+#, php-format
+msgid "%1$s &copy; %2$s.  %3$s."
+msgstr ""
+
+#: ../footer.php:76
+msgid "Copyright"
+msgstr ""
+
+#: ../footer.php:77
+#, php-format
+msgid "Powered by %1$s."
+msgstr ""
+
+#: ../footer.php:77
+#, php-format
+msgid " Designed by %1$s."
+msgstr ""
+
+#: ../functions.php:108 ../functions/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:109 ../functions/class-tgm-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:110 ../functions/class-tgm-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:111 ../functions/class-tgm-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:172 ../functions/class-tgm-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:173 ../functions/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../functions.php:174 ../functions/class-tgm-plugin-activation.php:367
+#: ../functions/class-tgm-plugin-activation.php:2957
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:175 ../functions/class-tgm-plugin-activation.php:368
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../functions.php:176 ../functions/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../functions.php:177 ../functions/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../functions.php:178 ../functions/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions.php:179 ../functions/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions.php:180 ../functions/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:488
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:489
+msgid "Update Required"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:603
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:796
+#: ../functions/class-tgm-plugin-activation.php:3362
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:903
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:903
+#: ../functions/class-tgm-plugin-activation.php:906
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:906
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2120
+msgid "Required"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2123
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2139
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2142
+msgid "External Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2145
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2162
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2166
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2168
+msgid "Active"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2174
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2177
+msgid "Requires Update"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2180
+msgid "Update recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2332
+msgid "Installed version:"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2340
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2352
+msgid "Available version:"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2375
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2389
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2390
+msgid "Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2391
+msgid "Type"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2395
+msgid "Version"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2396
+msgid "Status"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2523
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2556
+msgid "Install"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2562
+msgid "Update"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2565
+msgid "Activate"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2598
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2636
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2741
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2767
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:2956
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3286
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3288
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3289
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3293
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3294
+#: ../functions/class-tgm-plugin-activation.php:3300
+msgid "Show Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3294
+#: ../functions/class-tgm-plugin-activation.php:3300
+msgid "Hide Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3295
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3296
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3299
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3300
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3301
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:3302
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:140
+msgid "Post List Type - 1"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:142
+#: ../functions/theme-functions/theme-composer.php:330
+#: ../functions/theme-functions/theme-composer.php:520
+#: ../functions/theme-functions/theme-composer.php:723
+msgid "Display post list on homepage."
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:143
+#: ../functions/theme-functions/theme-composer.php:331
+#: ../functions/theme-functions/theme-composer.php:521
+#: ../functions/theme-functions/theme-composer.php:724
+#: ../functions/theme-functions/theme-composer.php:944
+#: ../functions/theme-functions/theme-composer.php:1374
+msgid "Warrior Widgets"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:152
+#: ../functions/theme-functions/theme-composer.php:340
+#: ../functions/theme-functions/theme-composer.php:530
+#: ../functions/theme-functions/theme-composer.php:733
+#: ../functions/theme-functions/theme-composer.php:953
+#: ../functions/theme-functions/theme-composer.php:1383
+msgid "Title"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:153
+msgid "Post List Type 1"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:159
+#: ../functions/theme-functions/theme-composer.php:347
+#: ../functions/theme-functions/theme-composer.php:537
+#: ../functions/theme-functions/theme-composer.php:740
+msgid "Description"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:160
+#: ../functions/theme-functions/theme-composer.php:348
+#: ../functions/theme-functions/theme-composer.php:538
+#: ../functions/theme-functions/theme-composer.php:741
+msgid "Optional Subtitle goes here"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:161
+#: ../functions/theme-functions/theme-composer.php:349
+#: ../functions/theme-functions/theme-composer.php:539
+#: ../functions/theme-functions/theme-composer.php:742
+msgid "Write your description."
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:166
+#: ../functions/theme-functions/theme-composer.php:354
+#: ../functions/theme-functions/theme-composer.php:544
+#: ../functions/theme-functions/theme-composer.php:747
+#: ../functions/theme-functions/theme-composer.php:964
+#: ../functions/theme-functions/theme-composer.php:971
+#: ../includes/widgets/warrior-list-category.php:32
+#: ../includes/widgets/warrior-list-category.php:67
+msgid "Categories"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:169
+#: ../functions/theme-functions/theme-composer.php:357
+#: ../functions/theme-functions/theme-composer.php:547
+#: ../functions/theme-functions/theme-composer.php:750
+#: ../functions/theme-functions/theme-composer.php:1392
+#: ../functions/theme-functions/theme-composer.php:1399
+#: ../functions/theme-functions/theme-composer.php:1406
+msgid "Select Categories."
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:173
+#: ../functions/theme-functions/theme-composer.php:361
+#: ../functions/theme-functions/theme-composer.php:551
+#: ../functions/theme-functions/theme-composer.php:754
+#: ../functions/theme-functions/theme-composer.php:1026
+#: ../functions/theme-functions/theme-composer.php:1410
+msgid "Post Title Limiter"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:179
+#: ../functions/theme-functions/theme-composer.php:367
+#: ../functions/theme-functions/theme-composer.php:760
+#: ../functions/theme-functions/theme-composer.php:1032
+#: ../functions/theme-functions/theme-composer.php:1416
+msgid "Post Content Limiter"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:185
+#: ../functions/theme-functions/theme-composer.php:373
+#: ../functions/theme-functions/theme-composer.php:557
+#: ../functions/theme-functions/theme-composer.php:766
+#: ../functions/theme-functions/theme-composer.php:1038
+msgid "Number of Post to Show"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:191
+#: ../functions/theme-functions/theme-composer.php:379
+#: ../functions/theme-functions/theme-composer.php:563
+#: ../functions/theme-functions/theme-composer.php:772
+#: ../functions/theme-functions/theme-composer.php:1044
+#: ../functions/theme-functions/theme-composer.php:1422
+msgid "CSS Animation"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:195
+#: ../functions/theme-functions/theme-composer.php:383
+#: ../functions/theme-functions/theme-composer.php:567
+#: ../functions/theme-functions/theme-composer.php:776
+#: ../functions/theme-functions/theme-composer.php:1048
+#: ../functions/theme-functions/theme-composer.php:1426
+msgid "No"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:196
+#: ../functions/theme-functions/theme-composer.php:384
+#: ../functions/theme-functions/theme-composer.php:568
+#: ../functions/theme-functions/theme-composer.php:777
+#: ../functions/theme-functions/theme-composer.php:1049
+#: ../functions/theme-functions/theme-composer.php:1427
+msgid "Flash"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:197
+#: ../functions/theme-functions/theme-composer.php:385
+#: ../functions/theme-functions/theme-composer.php:569
+#: ../functions/theme-functions/theme-composer.php:778
+#: ../functions/theme-functions/theme-composer.php:1050
+#: ../functions/theme-functions/theme-composer.php:1428
+msgid "Pulse"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:198
+#: ../functions/theme-functions/theme-composer.php:386
+#: ../functions/theme-functions/theme-composer.php:570
+#: ../functions/theme-functions/theme-composer.php:779
+#: ../functions/theme-functions/theme-composer.php:1051
+#: ../functions/theme-functions/theme-composer.php:1429
+msgid "FadeIn"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:199
+#: ../functions/theme-functions/theme-composer.php:387
+#: ../functions/theme-functions/theme-composer.php:571
+#: ../functions/theme-functions/theme-composer.php:780
+#: ../functions/theme-functions/theme-composer.php:1052
+#: ../functions/theme-functions/theme-composer.php:1430
+msgid "ZoomIn"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:201
+#: ../functions/theme-functions/theme-composer.php:389
+#: ../functions/theme-functions/theme-composer.php:573
+#: ../functions/theme-functions/theme-composer.php:782
+#: ../functions/theme-functions/theme-composer.php:1054
+#: ../functions/theme-functions/theme-composer.php:1432
+msgid ""
+"Select type of animation for element to be animated when it \"enters\" the "
+"browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:205
+#: ../functions/theme-functions/theme-composer.php:393
+#: ../functions/theme-functions/theme-composer.php:577
+#: ../functions/theme-functions/theme-composer.php:786
+#: ../functions/theme-functions/theme-composer.php:1058
+#: ../functions/theme-functions/theme-composer.php:1436
+msgid "Extra class name"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:207
+#: ../functions/theme-functions/theme-composer.php:395
+#: ../functions/theme-functions/theme-composer.php:579
+#: ../functions/theme-functions/theme-composer.php:788
+#: ../functions/theme-functions/theme-composer.php:1060
+#: ../functions/theme-functions/theme-composer.php:1438
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:211
+#: ../functions/theme-functions/theme-composer.php:399
+#: ../functions/theme-functions/theme-composer.php:583
+#: ../functions/theme-functions/theme-composer.php:792
+#: ../functions/theme-functions/theme-composer.php:1064
+#: ../functions/theme-functions/theme-composer.php:1442
+msgid "CSS"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:213
+#: ../functions/theme-functions/theme-composer.php:401
+#: ../functions/theme-functions/theme-composer.php:585
+#: ../functions/theme-functions/theme-composer.php:794
+#: ../functions/theme-functions/theme-composer.php:1066
+#: ../functions/theme-functions/theme-composer.php:1444
+msgid "Design options"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:328
+msgid "Post List Type - 2"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:341
+msgid "Post List Type 2"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:518
+msgid "Post List Type - 3"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:531
+msgid "Post List Type 3"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:721
+msgid "Post List Type - 4"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:734
+msgid "Post List Type 4"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:934
+msgid "Taxonomies"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:941
+msgid "Featured Post Slider"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:943
+msgid "Display featured post slider on homepage."
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:954
+#: ../functions/theme-functions/theme-options.php:62
+msgid "Featured Slider"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:959
+msgid "Display Post By"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:963
+msgid "Recent Post"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:965
+#: ../functions/theme-functions/theme-composer.php:996
+msgid "Tags"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:967
+msgid "Select options to display recent post."
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:992
+msgid "Select Categories, if you will be display recent post by category."
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:1018
+msgid "Select tags, if you will be display recent post by tags."
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:1371
+#: ../functions/theme-functions/theme-composer.php:1384
+msgid "Post Tabs"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:1373
+msgid "Display post list tabs on homepage."
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:1389
+msgid "Categories 1"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:1396
+msgid "Categories 2"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:1403
+msgid "Categories 3"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:1465
+msgid "Homepage Version 1"
+msgstr ""
+
+#: ../functions/theme-functions/theme-composer.php:1488
+msgid "Contact"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:46
+msgid " Edit Comment"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:55
+#: ../functions/theme-functions/theme-functions.php:81
+msgid "Reply"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:204
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:206
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:208
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:210
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:212
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:214
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:217
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:220
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:222
+#, php-format
+msgid "No Results for: %s"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:225
+msgid "404 Not Found Page"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:227
+msgid "Blog"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:248
+msgid " Comments"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:289
+msgid " Views"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:290
+msgid " View"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:331
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:348
+msgid "0"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:348
+msgid "1"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:348
+msgid "%"
+msgstr ""
+
+#: ../functions/theme-functions/theme-functions.php:376
+msgid "No Thumbnail"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:57
+msgid "General"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:63
+msgid "Display featured slider."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:72
+msgid "Featured Slider category"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:73
+msgid "Select a category that you will use."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:81
+msgid "Featured Slider Show Items"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:82
+msgid "How many items should be displayed in the featured slider."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:93
+msgid "Featured post slider title length"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:104
+msgid "Featured post slider excerpt length"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:115
+msgid "Enable Built-In Open Graph"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:116
+msgid ""
+"Add open graph meta tags, useful when sharing your articles on social media "
+"such as Facebook."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:123
+msgid "Enable Current Date & Time"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:124
+msgid "Display current date & time in header area"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:131
+msgid "Enable Social Buttons"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:132
+msgid "Display social buttons in footer area"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:139
+msgid "Enable Footer Logo"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:140
+msgid "Display footer logo in footer area"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:147
+msgid "Enable Back to Top Button"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:148
+msgid "Display back to top button"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:156
+msgid "Appearance"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:161
+msgid "Site Logo"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:164
+#: ../functions/theme-functions/theme-options.php:174
+msgid "Upload your logo."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:171
+msgid "Footer Logo"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:182
+msgid "Post Settings"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:188
+msgid "General Posts"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:189
+msgid "General posts settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:195
+msgid "Display Recent Post"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:196
+msgid "Display recent post slider in archive post"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:203
+msgid "Display Related Post"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:204
+msgid "Display related post in post detail"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:211
+msgid "Display Post Navigation"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:212
+msgid "Display post navigation in post detail"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:219
+msgid "Display About Author"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:220
+msgid "Display about author in post detail"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:228
+msgid "Post Details"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:229
+msgid "Post details settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:235
+msgid "Display Featured Image"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:236
+msgid "Display featured image in detail post."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:243
+msgid "Display Tags"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:244
+msgid "Display tags in post detail"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:251
+msgid "Display Share Buttons"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:252
+msgid "Display share buttons in post detail"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:259
+msgid "Display Comments"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:260
+msgid "Display comment in post detail"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:268
+msgid "Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:274
+msgid "Common Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:275
+msgid "Common typography settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:281
+msgid "Main Body Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:300
+#: ../functions/theme-functions/theme-options.php:905
+msgid "Main Menu Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:323
+msgid "Breadcrumb Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:344
+msgid "Widget Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:345
+msgid "Widget typography settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:351
+msgid "Homepage Widget Title Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:374
+msgid "Homepage Widget Sub Title Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:396
+msgid "Sidebar Widget Title Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:419
+msgid "Post Detail Widget Title Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:442
+msgid "Footer Top Widget Title Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:465
+msgid "Footer Bottom Widget Title Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:488
+msgid "Site Info in Footer"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:510
+msgid "Post & Page Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:511
+msgid "Post & Page typography settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:517
+msgid "Main Post Title in Visual Composer Elements"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:539
+msgid "Secondary Post Title"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:540
+msgid ""
+"Secondary post title in Visual Composer elements and post title in Sidebar "
+"&amp; Footer"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:562
+msgid "Post Title in Sidebar"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:583
+msgid "Post Category Name Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:584
+msgid "Post category name in widget, each posts & detail posts"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:607
+msgid "Post Thumbnail Category Name Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:608
+msgid "Post category name in widget & each posts thumbnail"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:630
+msgid "Post Meta Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:631
+msgid "Post meta in widget & each posts"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:652
+msgid "Recent Post Slider Category Name Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:653
+msgid "Recent post category name in archive page"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:676
+msgid "Recent Post Slider Category Description Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:677
+msgid "Recent post category description in archive page"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:699
+msgid "Recent Post Slider Title Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:700
+msgid "Recent post title in archive page"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:721
+msgid "Recent Post Slider Thumbnail Category Name Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:722
+msgid "Recent Post category name in archive page"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:744
+msgid "Recent Post Slider Meta Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:745
+msgid "Recent post meta in archive pages"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:766
+msgid "Heading H1"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:786
+msgid "Heading H2"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:804
+msgid "Heading H3"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:822
+msgid "Heading H4"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:840
+msgid "Heading H5"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:858
+msgid "Heading H6"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:877
+msgid "Header Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:878
+msgid "Header typography settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:884
+msgid "Top Menu Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:927
+msgid "Footer Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:928
+msgid "Footer typography settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:934
+msgid "Footer Menu Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:958
+msgid "Form Typography"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:959
+msgid "Form typography settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:965
+msgid "Form Field Text"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:983
+msgid "Form Button Text"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1006
+msgid "Colors"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1012
+msgid "Common Colors"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1013
+msgid "Common color settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1019
+msgid "Main Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1031
+msgid "Main Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1051
+msgid "Category Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1063
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1083
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1095
+msgid "Pagination Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1115
+msgid "Pagination Current Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1135
+msgid "Pagination Border Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1148
+msgid "Pagination Hover Border Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1162
+msgid "Header Colors"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1163
+msgid "Header color settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1169
+msgid "Top Menu Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1190
+msgid "Top Header Text Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1199
+msgid "Top Menu Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1211
+msgid "Top Menu Border Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1227
+msgid "Main Header Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1248
+msgid "Main Menu Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1272
+msgid "Sub Menu Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1283
+msgid "Sub Menu Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1303
+msgid "Sub Menu Hover & Active State Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1323
+#: ../functions/theme-functions/theme-options.php:1604
+msgid "Search Button Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1343
+#: ../functions/theme-functions/theme-options.php:1624
+msgid "Search Icon Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1353
+msgid "Footer Colors"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1354
+msgid "Footer color settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1360
+msgid "Footer Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1381
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1392
+msgid "Footer Menu Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1413
+msgid "Footer Menu Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1424
+msgid "Footer Top Widget Backround"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1445
+msgid "Footer Top Text Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1454
+msgid "Footer Top Widget Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1465
+msgid "Footer Bottom Widget Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1486
+msgid "Footer Bottom Text Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1495
+msgid "Footer Bottom Widget Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1506
+msgid "Back to Top Button Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1526
+msgid "Back to Top Button Icon Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1537
+msgid "Post Colors"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1538
+msgid "Post color settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1544
+msgid "Tags Button Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1564
+msgid "Tags Button Hover Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1584
+msgid "Tags Link Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1597
+msgid "Widget Colors"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1598
+msgid "Widget color settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1634
+msgid "Form Colors"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1635
+msgid "Form color settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1641
+msgid "Text Field Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1661
+msgid "Input Border Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1677
+msgid "Submit Button Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1698
+msgid "Author Colors"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1699
+msgid "Author color settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1705
+msgid "Author Tab Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1725
+msgid "Author Tab Text Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1734
+msgid "Author Tab Active Background"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1754
+msgid "Author Tab Text Active Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1763
+msgid "Author Tab Border Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1780
+msgid "Author Socmed Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1793
+msgid "Share Button Colors"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1794
+msgid "Share button color settings section."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1800
+msgid "Facebook Share Button Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1809
+msgid "Twitter Share Button Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1818
+msgid "Google Plus Share Button Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1827
+msgid "Pinterest Share Button Color"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1839
+msgid "Advertisement"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1847
+msgid "300x250 Advertisement Banner"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1848
+msgid ""
+"You will need to assign \"Warrior Sidebar 300x250 Ad Widget\" to the Sidebar "
+"- Right widget area from the <a href=\"widgets.php\">Widgets settings</a>."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1854
+msgid "Ad Mode"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1855
+msgid "Choose the ad mode"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1864
+msgid "Banner Image"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1866
+msgid "Upload your own banner image."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1874
+msgid "Banner URL"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1875
+msgid "Where should this banner linked to?"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1884
+msgid "Ad Code"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1885
+msgid "Paste your ad code."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1893
+msgid "Social Profiles"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1898
+msgid "Facebook Profile/Page"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1899
+msgid "Your Facebook profile page"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1907
+msgid "Twitter Profile"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1908
+msgid "Your Twitter profile page."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1916
+msgid "Google+ Profile"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1917
+msgid "Your Google+ profile page."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1925
+msgid "Pinterest Profile Page"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1926
+msgid "Your Pinterest profile page."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1934
+msgid "Youtube Videos"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1935
+msgid "Your YouTube video page."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1943
+msgid "Vimeo Videos"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1944
+msgid "Your Vimeo video page."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1952
+msgid "Instagram Photos"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1953
+msgid "Your Instagram page."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1961
+msgid "Linkedin Profile"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1962
+msgid "Your LinkedIn profile page."
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1975
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1976
+#: ../functions/theme-functions/theme-options.php:1982
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1981
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:1986
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:2006
+#: ../functions/theme-functions/theme-options.php:2007
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions/theme-functions/theme-options.php:2093
+msgid ""
+"<p>If you like this theme, please consider giving it a 5 star rating on "
+"ThemeForest. <a href=\"http://themeforest.net/downloads\" target=\"_blank"
+"\">Rate now</a>.</p>"
+msgstr ""
+
+#: ../functions/theme-functions/theme-support.php:24
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions/theme-functions/theme-support.php:25
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions/theme-functions/theme-support.php:26
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:14
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:17
+msgid "Widgets will be displayed in right sidebar."
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:26
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:29
+msgid "Widgets will be displayed in right sidebar detail page."
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:38
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:41
+msgid "Widgets will be displayed in right sidebar default page."
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:50
+msgid "Footer Top"
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:53
+msgid "Widgets will be displayed in footer top area."
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:62
+msgid "Footer"
+msgstr ""
+
+#: ../functions/theme-functions/theme-widgets.php:65
+msgid "Widgets will be displayed in footer area."
+msgstr ""
+
+#: ../includes/pagination.php:19
+msgid "&laquo; Previous Posts"
+msgstr ""
+
+#: ../includes/pagination.php:20
+msgid "Next Posts &raquo;"
+msgstr ""
+
+#: ../includes/widgets/warrior-ad-300x250.php:23
+msgid "Warrior Sidebar 300x250 Ad Widget"
+msgstr ""
+
+#: ../includes/widgets/warrior-ad-300x250.php:26
+msgid "Warrior Sidebar 300x250 Ad"
+msgstr ""
+
+#: ../includes/widgets/warrior-ad-300x250.php:71
+#, php-format
+msgid ""
+"You need to upload the banner images from <a href=\"%s\">Theme Options</a> "
+"Advertisement tab."
+msgstr ""
+
+#: ../includes/widgets/warrior-list-category.php:23
+msgid "Display custom category list"
+msgstr ""
+
+#: ../includes/widgets/warrior-list-category.php:26
+msgid "Warrior Category List"
+msgstr ""
+
+#: ../includes/widgets/warrior-list-category.php:47
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../includes/widgets/warrior-list-category.php:47
+msgid " Articles"
+msgstr ""
+
+#: ../includes/widgets/warrior-popular-posts.php:23
+msgid "Display popular post."
+msgstr ""
+
+#: ../includes/widgets/warrior-popular-posts.php:26
+msgid "Warrior Popular Post"
+msgstr ""
+
+#: ../includes/widgets/warrior-popular-posts.php:34
+#: ../includes/widgets/warrior-popular-posts.php:116
+msgid "Popular Posts"
+msgstr ""
+
+#: ../includes/widgets/warrior-recent-posts-by-category-2.php:24
+msgid "Display recent post by category widget type - 2"
+msgstr ""
+
+#: ../includes/widgets/warrior-recent-posts-by-category-2.php:27
+msgid "Warrior Recent Post by Category - Type 2"
+msgstr ""
+
+#: ../includes/widgets/warrior-recent-posts-by-category-2.php:35
+#: ../includes/widgets/warrior-recent-posts-by-category-2.php:144
+#: ../includes/widgets/warrior-recent-posts-by-category.php:35
+#: ../includes/widgets/warrior-recent-posts-by-category.php:143
+#: ../includes/widgets/warrior-recent-posts.php:34
+#: ../includes/widgets/warrior-recent-posts.php:109
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/warrior-recent-posts-by-category.php:24
+msgid "Display recent post by category widget type - 1"
+msgstr ""
+
+#: ../includes/widgets/warrior-recent-posts-by-category.php:27
+msgid "Warrior Recent Post by Category - Type 1"
+msgstr ""
+
+#: ../includes/widgets/warrior-recent-posts.php:23
+msgid "Display recent post."
+msgstr ""
+
+#: ../includes/widgets/warrior-recent-posts.php:26
+msgid "Warrior Recent Post"
+msgstr ""
+
+#: ../page-fullwidth.php:22 ../page.php:24 ../single.php:43
+msgid "Pages:"
+msgstr ""
+
+#: ../sidebar.php:20
+msgid ""
+"There's no widget assigned. You can start assigning widgets to \"Single "
+"Sidebar\" widget area from the <a href=\""
+msgstr ""
+
+#: ../sidebar.php:28
+msgid ""
+"There's no widget assigned. You can start assigning widgets to \"Page Sidebar"
+"\" widget area from the <a href=\""
+msgstr ""
+
+#: ../sidebar.php:36
+msgid ""
+"There's no widget assigned. You can start assigning widgets to \"Sidebar\" "
+"widget area from the <a href=\""
+msgstr ""
