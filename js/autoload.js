@@ -52,6 +52,7 @@ function changeURL(){
 	// 	History.pushState(null, null, this_url );
 	// 	window.document.title = this_title;
 	// } 
+	curr_url = this_url;
 	History.pushState(null, null, this_url );
 	window.document.title = this_title;
 	doAutoLoad();	
