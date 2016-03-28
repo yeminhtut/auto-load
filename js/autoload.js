@@ -70,18 +70,28 @@ function changeURL(){
 
 function changeURL_scrollUp(){
 	var el = jQuery(this);
-	var this_url = el.attr('data-nextposturl');
-	var this_title = el.attr('data-nextposttitle');
+	var this_nexturl = el.attr('data-nextposturl');
+	var this_nexttitle = el.attr('data-nextposttitle');
+	var this_url = el.attr('data-url');
+	var this_title = el.attr('data-title');
 	var offset = el.offset();
 	var scrollTop = jQuery(document).scrollTop();
+	console.log(offset.top - scrollTop);
 	// if exiting or entering from top, change URL
-	if ( ( offset.top - scrollTop ) < 150 ) {
+	if ( ( offset.top - scrollTop ) < 0 ) {
+		if (curr_url !== this_nexturl) {
+			curr_url = this_nexturl;
+			History.pushState(null, null, this_nexturl );
+			window.document.title = this_nexttitle;
+		};
+	}
+	else{
 		if (curr_url !== this_url) {
 			curr_url = this_url;
 			History.pushState(null, null, this_url );
 			window.document.title = this_title;
 		};
-	};	
+	}
 }
 
 function doAutoLoad(){
