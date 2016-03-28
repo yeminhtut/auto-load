@@ -9,8 +9,9 @@
 			$prevPost = get_posts($args);
 			foreach ($prevPost as $post) {
 				setup_postdata($post);
+				//var_dump($post);exit;
 		?>
-				<h3 class="post-title"><a href="<?php the_permalink(); ?>" rel="prev"><?php echo wp_trim_words( get_the_title(), 10, '...'); ?></a></h3>
+				<h3 class="post-title"><a href="<?php the_permalink(); ?>" rel="prev" data-id="<?= $post->ID; ?>"><?php echo wp_trim_words( get_the_title(), 10, '...'); ?></a></h3>
 		<?php
 				wp_reset_postdata();
 			} //end foreach
